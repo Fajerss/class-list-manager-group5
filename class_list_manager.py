@@ -16,5 +16,5 @@ def main():
     # Each student calls her function here, for example:
     # print("Number of names:", count_names(names))
     print("Number of names:",count_names(names))
-print("Search name:", search_name(names, "Reem"))
+    print("Search name:", search_name(names, "Reem"))
 main()
