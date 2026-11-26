@@ -10,7 +10,6 @@ def count_names(names):
 # Written by: Reem ALarifi (task 2)
 def search_name(names, name):
     return name in names
-
 def main():
     print("Welcome to the Class List Manager!")
     print("Class list:", names)
